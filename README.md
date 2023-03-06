@@ -1,3 +1,3 @@
 # Link the project
-https://sprightly-jalebi-fbead2.netlify.app/
+https://brilliant-gnome-15805a.netlify.app/
 
